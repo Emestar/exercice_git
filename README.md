@@ -23,3 +23,6 @@ bug fixed in index.html: missing title
 -Blocage : Aucun pour l'instant. Tout va bien de mon cote.
 
 - J'ajoute une ligne pour corriger un bug.
+
+
+PUSH SUR MAIN
