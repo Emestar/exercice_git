@@ -14,6 +14,8 @@
 - Aujourd'hui : Mettre la touche finale pour que les mouvement et collisions soit fluide, ensuite faire un push sur ma branch
 - Blocage : Nouveau langage et réalisation que ce projet est complexe. Mais amusant.
 
+bug fixed in index.html: missing title
+
 **Nadia Desjardins** :
 
 - Hier : Modifier le mouvement du player pour aller en diagonale.
