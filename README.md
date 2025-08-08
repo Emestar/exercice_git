@@ -2,8 +2,8 @@
 
 ## Daily Scrum du 2025-08-08
 
-**Natach=ha** :
+**Natacha** :
 
 - Hier : A fait X.
 - Aujourd’hui : Va faire Y.
-- Blocages : Z.
+- Blocages : Pas acces a git sur VSCode
