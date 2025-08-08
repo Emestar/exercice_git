@@ -18,4 +18,6 @@
 
 - Hier : Modifier le mouvement du player pour aller en diagonale.
 - Aujourd'hui : Linker la lifeBar au personnage.
-- Blocage : Aucun pour l'instant. Tout va bien de mon cote.
+-Blocage : Aucun pour l'instant. Tout va bien de mon cote.
+
+- J'ajoute une ligne pour corriger un bug.
