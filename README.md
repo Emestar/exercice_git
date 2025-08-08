@@ -1,9 +1,7 @@
 # exercice_git
 
-## Daily Scrum du 2025-08-08
+**Jean-François Lefebvre**
 
-**Natacha** :
-
-- Hier : A fait X.
-- Aujourd’hui : Va faire Y.
-- Blocages : Pas acces a git sur VSCode
+-Hier : Fignoler le mouvemnent du NPC
+- Aujourd'hui : Mettre la touche finale pour que les mouvement et collisions soit fluide, ensuite faire un push sur ma branch
+-Blocage : Nouveau langage et réalisation que ce projet est complexe. Mais amusant.
